@@ -22,7 +22,7 @@ A science addict, I have always tried to understand the workings of things aroun
 
 ## Some of my projects
 
-### Mlle O [:link](https://mlle-o.fr)
+### Mlle O [:link:](https://mlle-o.fr)
 
 Developed and designed a cooking blog and an API for Seasonal Fruit&Veg.
 - GatsbyJS
@@ -30,17 +30,17 @@ Developed and designed a cooking blog and an API for Seasonal Fruit&Veg.
 - GraphQL
 - GraphCMS
 
-### James Martin [:link](https://james-martin.dev)
+### James Martin [:link:](https://james-martin.dev)
 
 Developed and design my personal website.
 - Gridsome
 
-### Ornella Corvi [:link](https://ornella-corvi.com)
+### Ornella Corvi [:link:](https://ornella-corvi.com)
 
 Configured and designed a performing arts portfolio.
 - Wix
 
-### Anthroquiches [:link](https://anthroquiches.fr/)
+### Anthroquiches [:link:](https://anthroquiches.fr/)
 
 Configured and developed a theme for a sociological website.
 - Wordpress
