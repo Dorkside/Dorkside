@@ -20,6 +20,12 @@ Aa a science addict I have always tried to understand the workings of things aro
 
 ## Some of my projects
 
+### Taxi OKA
+
+A medical taxi management and dispatch app.
+- Vue
+- Firebase
+
 ### Mlle O [:link:](https://mlle-o.fr)
 
 Developed and designed a cooking blog and an API for Seasonal Fruit&Veg.
