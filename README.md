@@ -1,4 +1,4 @@
-<img src="https://james-martin.dev/assets/static/favicon.cbda223.2ef9e5c5f4f61994befbb9ae9723b4ae.png" style="width: 32px;">
+<img src="https://james-martin.dev/assets/static/favicon.cbda223.2ef9e5c5f4f61994befbb9ae9723b4ae.png" style="max-width: 32px;">
 # James D. MARTIN
 
 A science addict, I have always tried to understand the workings of things around me. Development came as a logical step from analyzing to creating. I am passionate about interface design and aim to provide intuitive software to empower others.
