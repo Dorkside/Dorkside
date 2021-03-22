@@ -32,7 +32,7 @@ Developed and designed a cooking blog and an API for Seasonal Fruit&Veg.
 
 ### James Martin [:link:](https://james-martin.dev)
 
-Developed and design my personal website.
+Developed and designed my personal website.
 - Gridsome
 
 ### Ornella Corvi [:link:](https://ornella-corvi.com)
