@@ -5,6 +5,7 @@ A science addict, I have always tried to understand the workings of things aroun
 ```JSON
 {
   "id": "James Dickson Martin",
+  "dateOfBirth": "27/10/1989",
   "nationality": ["French","Irish"],
   "languages": ["English","French","Italian"],
   "hobbies": ["sailing","reading","RPG"],
