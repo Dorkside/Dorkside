@@ -2,7 +2,7 @@
 
 A science addict, I have always tried to understand the workings of things around me. Development came as a logical step from analyzing to creating. I am passionate about interface design and aim to provide intuitive software to empower others.
 
-```json
+```JSON
 {
   "id": "James Dickson Martin",
   "nationality": ["French","Irish"],
