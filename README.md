@@ -6,7 +6,10 @@ A science addict, I have always tried to understand the workings of things aroun
 {
   "id": "James Dickson Martin",
   "nationality": ["French","Irish"],
-  "languages": ["English","French","Italian"]
+  "languages": ["English","French","Italian"],
+  "hobbies": ["sailing","reading","RPG"],
+  "goals": ["Become proficient at green-coding","Provide value to others","Found a happy family"],
+  "dreams": ["Fly to the moon","Sail around the world","Meet alien intelligence (preferably pacific)"]
 }
 ```
 
