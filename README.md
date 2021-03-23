@@ -1,6 +1,6 @@
 # James D. MARTIN
 
-Aa a science addict I have always tried to understand the workings of things around me. Development came as a logical step from analyzing to creating. I am passionate about interface design and aim to provide intuitive software to empower others.
+As a science addict I have always tried to understand the workings of things around me. Development came as a logical step from analyzing to creating. I am passionate about interface design and aim to provide intuitive software to empower others.
 
 ```JSON
 {
