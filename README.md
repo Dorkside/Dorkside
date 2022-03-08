@@ -18,7 +18,16 @@ As a science addict I have always tried to understand the workings of things aro
 
 :link: [Linkedin](https://www.linkedin.com/in/dorkside/)
 
-## Some of my projects
+## Currently working on
+
+### Computable Contracts @AXA
+
+The future of law and contracts.
+- Vue
+- Node
+- Homegrown graph model for law
+
+## Some of my personal projects
 
 ### Taxi OKA
 
