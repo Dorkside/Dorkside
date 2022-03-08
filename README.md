@@ -48,3 +48,8 @@ Configured and designed a performing arts portfolio.
 
 Configured and developed a theme for a sociological website.
 - Wordpress
+
+### Club de Voile Evian [:link:](https://voile-evian.fr/)
+
+Configured and developed a theme for my local sailing club
+- Wordpress
