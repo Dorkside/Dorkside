@@ -1,4 +1,5 @@
-# James D. MARTIN [:link:Linkedin](https://www.linkedin.com/in/dorkside/)
+# James D. MARTIN
+[:link:Linkedin](https://www.linkedin.com/in/dorkside/)
 
 As a science addict I have always tried to understand the workings of things around me. Development came as a logical step from analyzing to creating. I am passionate about interface design and aim to provide intuitive software to empower others.
 
