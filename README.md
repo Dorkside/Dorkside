@@ -1,4 +1,4 @@
-# James D. MARTIN
+# James D. MARTIN [:link:Linkedin](https://www.linkedin.com/in/dorkside/)
 
 As a science addict I have always tried to understand the workings of things around me. Development came as a logical step from analyzing to creating. I am passionate about interface design and aim to provide intuitive software to empower others.
 
@@ -8,15 +8,31 @@ As a science addict I have always tried to understand the workings of things aro
 {
   "id": "James Dickson Martin",
   "dateOfBirth": "27/10/1989",
-  "nationality": ["French","Irish"],
-  "languages": ["English","French","Italian"],
-  "hobbies": ["sailing","reading","RPG","Rocket league"],
-  "goals": ["Find solutions for a better future","Found a happy family"],
-  "dreams": ["Sail around the world","Fly to space"],
+  "nationality": [
+    "French",
+    "Irish"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Italian"
+  ],
+  "hobbies": [
+    "sailing",
+    "reading",
+    "RPG",
+    "Rocket league"
+  ],
+  "goals": [
+    "Find solutions for a better future",
+    "Found a happy family"
+  ],
+  "dreams": [
+    "Sail around the world",
+    "Fly to space"
+  ],
 }
 ```
-
-:link: [Linkedin](https://www.linkedin.com/in/dorkside/)
 
 ## Currently working on
 
