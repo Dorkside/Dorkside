@@ -8,9 +8,9 @@ As a science addict I have always tried to understand the workings of things aro
   "dateOfBirth": "27/10/1989",
   "nationality": ["French","Irish"],
   "languages": ["English","French","Italian"],
-  "hobbies": ["sailing","reading","RPG"],
-  "goals": ["Become proficient at green-coding","Provide value to others","Found a happy family"],
-  "dreams": ["Fly to the moon","Sail around the world","Meet alien intelligence (preferably pacific)"],
+  "hobbies": ["sailing","reading","RPG","Rocket league"],
+  "goals": ["Find solutions for a better future","Found a happy family"],
+  "dreams": ["Sail around the world","Fly to space"],
 }
 ```
 
