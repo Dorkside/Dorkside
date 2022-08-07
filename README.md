@@ -1,4 +1,4 @@
-James D. Martin
+# James D. Martin
 ![logo](https://dorkside.github.io/markdown-cv/assets/img/logo.png)
 Tech lead, Developer, Sailor.
 
