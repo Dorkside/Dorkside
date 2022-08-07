@@ -1,10 +1,10 @@
-# ![portrait]({{site.url}}/assets/img/portrait.jpg) James D. Martin
+# ![portrait](https://dorkside.github.io/markdown-cv/assets/img/portrait.jpg) James D. Martin
 ![logo]({{site.url}}/assets/img/logo.png)
 Tech lead, Developer, Sailor.
 
 :email: [contact@james-martin.dev](mailto:contact@james-martin.dev)  
 :computer: [james-martin.dev](https://james-martin.dev)  
-:telephone_receiver: +33(0)7.62.68.60.70  
+:telephone_receiver: +33(0)7.62.68.60.70 
 :baby: Born on 27/10/1989  
 :car: B driving license  
 :construction_worker: G work permit  
