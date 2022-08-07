@@ -1,5 +1,5 @@
-# ![portrait](https://dorkside.github.io/markdown-cv/assets/img/portrait.jpg) James D. Martin
-![logo]({{site.url}}/assets/img/logo.png)
+James D. Martin
+![logo](https://dorkside.github.io/markdown-cv/assets/img/logo.png)
 Tech lead, Developer, Sailor.
 
 :email: [contact@james-martin.dev](mailto:contact@james-martin.dev)  
