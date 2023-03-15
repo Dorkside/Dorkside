@@ -1,5 +1,8 @@
-# James D. Martin
-Tech lead, Developer, Sailor.
+# ![portrait]({{site.url}}/assets/img/portrait.jpg) James D. Martin
+![logo]({{site.url}}/assets/img/logo.png)
+
+Full-Stack Technical lead  
+Sailor
 
 :email: [contact@james-martin.dev](mailto:contact@james-martin.dev)  
 :computer: [james-martin.dev](https://james-martin.dev)  
@@ -32,55 +35,85 @@ Full-stack, Solution Design, Front-end
 Sailing :sailboat:, Green-coding :seedling:, Sciences :earth_africa:
 
 ## Education
+### __Software Engineering__
+#### Masters degree
+
 `In progress`
-__Software Engineer__  
+
 Architecture and integration of systems and software  
 _CNAM_
 
+### __Computer Science__
+#### Associates degree
+
 `2015`
-__High School diploma in computer science__  
-Option SLAM (Software and Business Applications Solutions)  
+
+Software and Business Applications Solutions  
 _Lycée la Martinière-Duchère, Lyon_
 
-## Experiences
+## Work experience
+### __Tech lead__
+#### AXA
 
 `July 2021 - Today`
-__Tech lead__, AXA
 
-_Following a successful collaboration as an external, my skills have been internalized in order to evolve a part of the software ecosystem of the project._
+_I joined the team as a Tech Lead after a successful shift as an external collaborator. As a technical strategist, I oversee the development and implementation of complex software solutions, manage a team of developers, and provide mentorship to ensure timely and high-quality project delivery._
 
-• Management of the industrialization of a PoC within a project. Architecture, team coordination, communication with clients and project documentation. This transformation includes the setting up of a CI/CD, the setting up of a continuous deployment, the setting up of a monitoring and the modification of the code to switch from a heavy client to a light client.
-- Agile methodologies: Scrum, Kanban and Lean
+• Managed industrialization of a proof-of-concept (PoC) project, including team coordination, architecture design, and client communication.  
+• Implemented CI/CD process and continuous deployment system to ensure quality and stability of the system.  
+• Redesigned architecture and updated documentation to switch from heavy to light client code.  
+• Successfully deployed the industrialized PoC, meeting project stakeholder requirements and contributing to project success.  
+
+- Scrum,&nbsp;Kanban&nbsp;and&nbsp;Lean
 - OpenShift
 - Docker
 - Codebuild
-- Technical documentation
+- Technical&nbsp;documentation
+
+### __Senior software developer__
+#### AXA
 
 `July 2019 - June 2021`
-__Senior software developer__, AXA
 
-_First job in a large group, this experience allowed me to put my skills in perspective. Meeting talented developers, and other roles more oriented towards management and insurance, broadened my vision of the professional world._  
-_Introduction to the concept of LegalTech and AXA's progress in this area._
+_As a developer in my first role at AXA, I gained valuable experience collaborating with talented professionals in various roles, including management and insurance. This experience provided me with a deeper understanding of the diverse aspects of the professional world and how my skills fit within a corporate setting._
 
-• Development of a PoC to put into practice the business logic proposed by the project with customers. Code optimization for network and reliability constraints.
+_During my time at AXA, I was exposed to the emerging field of LegalTech and witnessed firsthand the company's advancements in this area. This experience allowed me to gain a deeper understanding of the intersection between the legal and technological fields and the potential impact it could have on the industry._
+
+##### PoC development
+
+• Developed a PoC for a project, successfully demonstrating the business logic proposed by the project to customers  
+• Designed and implemented the business logic in code, optimized for network and reliability constraints  
+• Conducted research and analysis to identify the optimal approach for designing and implementing the business logic  
+• Optimized the code for network and reliability constraints by conducting performance testing and implementing error handling mechanisms  
+• Collaborated with the project team to ensure that the PoC was functional and met the requirements of the project stakeholders  
 - Vue.js
-- AWS S3 & Cloudfront
+- AWS&nbsp;S3
+- Cloudfront
 
-• Integration into the team and development of skills on the technology stack used by the project. Need to convert my Angular knowledge into a Vue.js stack. Analysis of the team dynamics and business demand in order to make my expertise available.
+##### Technology Stack Adaptation and Mastery
+
+• Successfully adapted Angular knowledge to Vue.js technology stack as a member of a new team  
+• Actively pursued opportunities to learn and collaborated with colleagues to understand best practices  
+• Became proficient in Vue.js, a valuable go-to reference for the team, and contributed effectively to the project's success  
+• Expanded skillset and demonstrated the value of investing in personal and professional development.  
 - Vue.js
 - NodeJS
-- OVH
 - Javascript
 
 
+### __Technical lead__
+#### SPARTE
+
 `2016 - June 2019`
-__Technical lead__, SPARTE
 
-_First employee of this company, I participated in the design and development of numerous pilot projects intended to promote a collaborative vision of civil engineering augmented by the use of cutting-edge technologies. My missions led me to collect our clients' needs and collaborate with groups such as Bouygues, Vinci, Assystem, Enedis, Clemessy..._
+_As the first employee of a budding software company, I designed and developed pilot projects using innovative technologies to promote a collaborative approach to the industry. I collaborated with major industry players, including Bouygues, Vinci, and Assystem, and gathered client requirements to successfully demonstrate the benefits of collaboration and innovation._
 
-• Coordination of a multidisciplinary team composed of developers, technical drafters and 3D modellers to offer our customers a collaborative platform for managing data around the BIM model.  
-Development of skills on DevOps topics, including the administration of an OpenShift platform for deploying the application with our customers.  
-- Team management
+• Led a multidisciplinary team in developing and delivering a collaborative platform for managing BIM model data to customers  
+• Coordinated the team to ensure seamless delivery and developed expertise in DevOps, including OpenShift platform administration  
+• Effectively communicated with team members to ensure coordination and developed the platform using Angular  
+• Successfully delivered the collaborative platform to customers
+
+- Team&nbsp;management
 - Angular
 - NodeJS
 - GraphQL
@@ -88,41 +121,49 @@ Development of skills on DevOps topics, including the administration of an OpenS
 - Docker
 - OpenShift
 
-• Design of scripts for synchronizing 3D models from CAD software with CGAO-oriented 3D applications.  
-Understanding the differences between these approaches to 3D has contributed to the development of a collaborative and project management platform around the building.  
-- Revit
-- Dynamo
-- BIM
-
-• Development of a prototype in virtual reality in partnership with Assystem for the training of operators in the use of a clean room.  
-Usually more oriented towards a mouse-keyboard interaction, my role was to acquire the necessary knowledge to facilitate the learning of the other developers of the team.  
-- C#
-- Unreal Engine
+### __Full-stack developer__
+#### Créa'Studio
 
 `2015`
-__Full-stack developer__, Créa'Studio
 
-Design of a PoC of CMMS for Lombardi SA based on real-time events to propose a vision of collaborative maintenance.  
+• Successfully designed a PoC that demonstrated the benefits of a collaborative maintenance approach, utilizing firebase and ionic to create a real-time event-based system that would allow for more efficient maintenance. This helped Lombardi SA to rethink their maintenance processes and provided a valuable reference for future projects.
+
 - Firebase
 - Ionic
 
 ## Personal projects
 
-`2019 - Today`
-__Full-stack developer__, XI Driver
+### __Full-stack developer__
+#### XI Driver
 
-Design and production of a management software for medicalized taxis for a Marseille company.
+`2019 - Today`
+
+##### Medicalized Taxi Management Software
+
+• Successfully designed and produced a management software solution for a Marseille-based company that met their needs and addressed their concerns about transitioning to a software solution  
+• Improved operations and patient care through better management of medicalized taxis, schedules, and assignments  
+• Developed the solution using modern and scalable technologies, including Vue.js and firebase  
+• Demonstrated an ability to understand client needs and find a compromise to allow for a smooth transition to a software solution  
+
 - Vue.js
 - Firebase
 
-`2014`
-__Co-founder & full-stack developer__, InstanT
+### __Co-founder & full-stack developer__
+#### InstanT
 
-Design and deployment of an Uber-type platform intended for interpreters. Creation of a community of approximately 1000 users.  
-- Ruby on Rails
+`2014`
+
+##### Interpreter Platform Design and Deployment
+
+• Designed and deployed an interpreter platform similar to Uber, utilizing Ruby on Rails for the backend and Java for the frontend  
+• Created a platform that addressed the needs of interpreters, successfully meeting project goals and objectives  
+• Demonstrated an ability to learn new skills and technologies in a timely manner, resulting in personal and professional growth  
+• Gained expertise in modern technologies, including Ruby on Rails and Java, which can be leveraged in future roles  
+
+- Ruby&nbsp;on&nbsp;Rails
 - Java
 - Twilio
 
 <!-- ### Footer
 
-Last updated: July 2022 -->
+Last updated: March 2023 -->
