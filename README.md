@@ -1,5 +1,5 @@
-# ![portrait]({{site.url}}/assets/img/portrait.jpg) James D. Martin
-![logo]({{site.url}}/assets/img/logo.png)
+# ![portrait](https://james-martin.dev/assets/img/portrait.jpg) James D. Martin
+![logo](https://james-martin.dev/assets/img/logo.png)
 
 Full-Stack Technical lead  
 Sailor
