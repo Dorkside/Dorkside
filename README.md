@@ -11,6 +11,8 @@ Sailor
 :construction_worker: G work permit  
 :link: [github.com/Dorkside](https://github.com/Dorkside)  
 :link: [linkedin.com/in/dorkside](https://www.linkedin.com/in/dorkside/)
+:link: @Dorkside@techhub.social
+:link: @dorkside@blog.james-martin.dev
 
 ### Languages
 
