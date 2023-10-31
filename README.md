@@ -76,4 +76,4 @@ Sailing :sailboat:, Tech :computer:, AI :space_invader:
 
 <!-- ### Footer
 
-Last updated: March 2023 -->
+Last updated: October 2023 -->
