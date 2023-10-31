@@ -7,7 +7,6 @@ Product engineer
 :telephone_receiver: +33(0)7.62.68.60.70  
 :baby: Born on 27/10/1989  
 :car: B driving license  
-:construction_worker: G work permit  
 :link: [github.com/Dorkside](https://github.com/Dorkside)  
 :link: [linkedin.com/in/dorkside](https://www.linkedin.com/in/dorkside/)  
 :link: @Dorkside@techhub.social  
