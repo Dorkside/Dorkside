@@ -8,16 +8,19 @@ As a Full-Stack Technical Lead at AXA GO, I specialize in bringing innovative so
 Leading the industrialization of a Generative AI PoC project at AXA, focusing on stakeholder management and product vision.
 
 ## My Journey
-Technical Lead @AXA Group Operations: Steering the team in developing complex software solutions and process improvements.  
-AI Product Engineer @AXA: Involved in pioneering projects in Generative AI.  
-Technical Lead @SPARTE: Developed a collaborative platform for BIM model data, honing my skills in leadership and team management.  
-Software Engineer: Rapidly adapted to new technologies, including Vue.js, showcasing my ability to thrive in dynamic environments.  
-Earlier Adventures: From bartending to software development, every step has taught me the value of adaptability, quick problem-solving, and effective communication.
+- AI Product Engineer @AXA: Involved in pioneering projects in Generative AI.
+- Technical Lead @AXA Group Operations: Steering the team in developing complex software solutions and process improvements.
+- Technical Lead @SPARTE: Developed a collaborative platform for BIM model data, honing my skills in leadership and team management.
+- Software Engineer: Rapidly adapted to new technologies, including Vue.js, showcasing my ability to thrive in dynamic environments.
+- Earlier Adventures: From bartending to software development, every step has taught me the value of adaptability, quick problem-solving, and effective communication.
 
 ## Core Competencies
-🌐 Languages: Javascript, Python, Vue.js, and more  
-🤖 Specialties: Generative AI, Product Engineering  
-🤝 Soft Skills: Leadership, Team Management, Stakeholder Engagement  
+🌐 Languages: Javascript, Python, Vue.js, and more
+
+🤖 Specialties: Generative AI, Product Engineering
+
+🤝 Soft Skills: Leadership, Team Management, Stakeholder Engagement
+
 📈 Continuous Learning: Always eager to learn and grow; currently gearing up on Generative AI.
 
 ## On a Personal Note
