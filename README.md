@@ -1,27 +1,27 @@
-# Hi there, I'm James Martin 👋
-🌐 Based in Lausanne, Vaud, Switzerland - Speaking English, French, and a bit of Italian
+# Hi there, I'm James Martin 👋  
+🌍 Based in France, fluent in English and French, with conversational Italian skills.
 
-## About Me
-As a Full-Stack Technical Lead at AXA GO, I specialize in bringing innovative software solutions from concept to completion. With a strong foundation in Python, Generative AI, and full-stack development, my passion lies in engineering products that not only meet but exceed user expectations.
+## About Me  
+Innovative Fullstack and Product Engineer with a passion for leveraging AI technologies to build impactful and scalable software solutions. My expertise lies in creating user-centric applications, leading high-paced projects, and bringing ideas from concept to production. 
 
-## 🚀 What I'm currently working on
-Leading the industrialization of a Generative AI PoC project at AXA, focusing on stakeholder management and product vision.
+## 🚀 What I'm currently working on  
+- **Leading AI-driven initiatives:** Driving the industrialization of Generative AI solutions at AXA Group Operations.  
+- **Empowering digital transformation:** From manual processes to digital platforms, I focus on delivering intuitive, user-friendly solutions.
 
-## My Journey
-- AI Product Engineer @AXA: Involved in pioneering projects in Generative AI.
-- Technical Lead @AXA Group Operations: Steering the team in developing complex software solutions and process improvements.
-- Technical Lead @SPARTE: Developed a collaborative platform for BIM model data, honing my skills in leadership and team management.
-- Software Engineer: Rapidly adapted to new technologies, including Vue.js, showcasing my ability to thrive in dynamic environments.
-- Earlier Adventures: From bartending to software development, every step has taught me the value of adaptability, quick problem-solving, and effective communication.
+## My Journey  
+- **Technical Lead @ AXA Group Operations**: Designing and optimizing scalable, production-ready web applications with technologies like Vue.js, Node.js, and TypeScript.  
+- **AI Product Engineer @ AXA**: Spearheaded pioneering Generative AI projects, focusing on business impact and usability.  
+- **First Employee @ SPARTE**: Developed a BIM data management and collaborative platform, leading a team and driving innovation in the construction tech domain.  
+- **Freelance Engineer**: Delivered tailored solutions, like a real-time dispatch platform for Taxi OKA, enhancing operational efficiency and user experience.  
+- **Early Adventures**: Co-founded InstanT, a real-time interpretation platform, showcasing adaptability and problem-solving skills.
 
-## Core Competencies
-🌐 Languages: Javascript, Python, Vue.js, and more
+## Core Competencies  
+🌐 **Technologies:** JavaScript, TypeScript, Vue.js, Node.js, Firebase, Generative AI tools (OpenAI, LangChain, MLFlow).  
+🔧 **Skills:** Fullstack development, scalable architectures, Agile methodologies, and team leadership.  
+🎯 **Focus Areas:** Generative AI, Product Engineering, and Digital Transformation.  
 
-🤖 Specialties: Generative AI, Product Engineering
+## Continuous Learning  
+Always pushing boundaries, I'm currently expanding my expertise in Generative AI tools and frameworks to drive innovation in AI-powered solutions.
 
-🤝 Soft Skills: Leadership, Team Management, Stakeholder Engagement
-
-📈 Continuous Learning: Always eager to learn and grow; currently gearing up on Generative AI.
-
-## On a Personal Note
-When not coding, you'll find me playing Lego with my son or sailing.
+## On a Personal Note  
+When I'm not crafting digital solutions, I enjoy playing Lego with my son, exploring the seas through sailing, or discovering new cultures.
