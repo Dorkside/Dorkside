@@ -30,5 +30,3 @@ Outside of work, you’ll find me:
 - **Sailing**: Finding challenge, peace, and connection with nature.  
 - **Family Time**: Playing Lego with my son and fostering moments of joy and creativity.  
 - **Contributing**: Looking for ways to give back, whether through mentoring, volunteering, or community-driven projects.
-
-<a href="https://gitroll.io/profile/uiSiTyUk4Q4Vh6BnCqGiqIQHAJl52" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uiSiTyUk4Q4Vh6BnCqGiqIQHAJl52?theme=midnight" alt="GitRoll Profile Badge"/></a>
