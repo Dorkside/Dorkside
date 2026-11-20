@@ -1,32 +1,17 @@
-# Hi there, I'm James Martin 👋
-🌍 Based in France, fluent in English and French, with conversational Italian skills.  
-🌟 Passionate about creating human-centered digital solutions that simplify lives and empower people.
+# James Martin
 
-## About Me  
-I’m an **innovative Fullstack and Product Engineer** with a knack for transforming ideas into scalable, impactful software. My focus lies in bridging technical excellence with user-centered design, leveraging cutting-edge technologies like **Generative AI** to tackle meaningful challenges.
+Je suis développeur full-stack et consultant indépendant à Menton. J’aide les TPE et PME des Alpes-Maritimes à faire évoluer leurs logiciels métier. Mes projets commencent souvent par une question simple : quelle information l’équipe doit-elle encore recopier d’un outil à l’autre ?
 
-## 🚀 What I'm Currently Working On  
-- **Driving AI innovation**: Leading the industrialization of Generative AI solutions at AXA Group Operations, turning concepts into actionable tools.  
-- **Side SaaS Adventure**: Exploring the launch of an AI-powered webmaster service to simplify website updates for small business owners.  
+## Ce que je développe
 
-## My Journey  
-- **Technical Lead @ AXA Group Operations**: Built and optimized production-grade web applications using **Vue.js**, **Node.js**, and **TypeScript**.  
-- **AI Product Engineer @ AXA**: Spearheaded Generative AI initiatives, focusing on practical business applications and user experience.  
-- **First Employee @ SPARTE**: Led a team to develop a **BIM data management platform**, driving innovation in construction technology.  
-- **Freelance Engineer**: Designed bespoke solutions like a **real-time dispatch platform** for Taxi OKA, enhancing operational efficiency.  
-- **Startup Co-Founder**: At InstanT, created a **real-time interpretation platform**, showcasing adaptability and a problem-solving mindset.
+- **Bleu Pixel** — Je travaille sur un tableau de bord qui permet aux offices de tourisme de voir comment les assistants IA décrivent leur destination. Il conserve les réponses et les sources citées pour que l’équipe puisse repérer, par exemple, un hébergement attribué à la commune voisine. [Découvrir Bleu Pixel](https://bleu-pixel.fr/) · [Consulter un exemple de rapport](https://app.bleu-pixel.fr/rapport/)
+- **Taxi OKA** — Je développe la deuxième version de l’application de répartition des courses avec Vue.js et Firebase. Le travail porte sur la coordination entre la centrale et les chauffeurs.
+- **Apidae et WordPress** — J’ai développé et testé localement une intégration qui met à jour les fiches et les événements d’un site touristique à partir du catalogue Apidae.
 
-## Core Competencies  
-🌐 **Technologies**: JavaScript, TypeScript, Vue.js, Node.js, Firebase, Generative AI tools (OpenAI, LangChain, MLFlow).  
-🔧 **Skills**: Fullstack development, serverless architectures, Agile project management, and team leadership.  
-🎯 **Focus Areas**: Generative AI, SaaS product development, and user-centric digital transformation.  
+Je travaille principalement avec TypeScript, Vue.js et Node.js. Pour la collecte de données et les traitements automatisés, j’utilise aussi GitHub Actions et Cloudflare.
 
-## Continuous Learning  
-- **Expanding Expertise**: Deepening my knowledge of **serverless architectures** and **AI frameworks** to scale innovative projects.  
-- **Exploring Marketing Fundamentals**: Building strategies to grow the waitlist for my SaaS side project.
+## Parcours
 
-## On a Personal Note  
-Outside of work, you’ll find me:  
-- **Sailing**: Finding challenge, peace, and connection with nature.  
-- **Family Time**: Playing Lego with my son and fostering moments of joy and creativity.  
-- **Contributing**: Looking for ways to give back, whether through mentoring, volunteering, or community-driven projects.
+Chez AXA Group Operations, j’ai travaillé comme tech lead puis sur la mise en production d’applications d’IA générative. Chez SPARTE, j’étais le premier salarié et j’ai encadré le développement d’une plateforme de gestion des données du bâtiment (BIM). J’ai aussi cofondé InstanT, une plateforme d’interprétation en temps réel.
+
+[Réalisations et contact sur james-martin.dev](https://james-martin.dev/)
